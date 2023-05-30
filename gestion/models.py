@@ -12,4 +12,4 @@ class Auto(models.Model):
     estado = models.CharField(max_length=50)
 
     def __str__(self):
-        return self.placa
+        return f'{self.modelo} {self.trim} {self.marca} vin#{self.placa}'
