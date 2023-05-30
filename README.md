@@ -1,6 +1,6 @@
 # Mi Aplicación Django
 
-Este proyecto es una aplicación Django desarrollada para [describir brevemente el propósito de tu aplicación].
+Este proyecto es una aplicación Django desarrollada para una administracion digital de manera simple.
 
 ## Instrucciones de Docker
 
